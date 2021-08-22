@@ -1,0 +1,16 @@
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\GuessNumber2.exe
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\GuessNumber2.deps.json
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\GuessNumber2.runtimeconfig.json
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\GuessNumber2.runtimeconfig.dev.json
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\GuessNumber2.dll
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\ref\GuessNumber2.dll
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\bin\Debug\net5.0\GuessNumber2.pdb
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.csprojAssemblyReference.cache
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.AssemblyInfoInputs.cache
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.AssemblyInfo.cs
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.csproj.CoreCompileInputs.cache
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.dll
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\ref\GuessNumber2.dll
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.pdb
+C:\Users\KOA\Desktop\Guess Number V1.2.0\GuessNumber2\GuessNumber2\obj\Debug\net5.0\GuessNumber2.genruntimeconfig.cache
