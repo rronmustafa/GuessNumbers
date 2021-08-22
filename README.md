@@ -1,5 +1,5 @@
 # GuessNumbers
-This is a small project made with C#/.NET
+This is a small project made with C#/.NET .
 I made this project with a console application.
 It has 3 Levels of difficulty.
 LVL1 guessing numbers from 1-5.
